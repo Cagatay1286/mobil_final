@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977689619923",
+    "project_id": "kripto-ac2c7",
+    "storage_bucket": "kripto-ac2c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977689619923:android:8fe9ded884b025ce1b5326",
+        "android_client_info": {
+          "package_name": "com.example.kripto_uygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977689619923-npc1sfaf4rjo7ohhumda1p18l8145n25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhsBjAZRzRWgVklnf4oaePlQe5kt_L6lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977689619923-npc1sfaf4rjo7ohhumda1p18l8145n25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
